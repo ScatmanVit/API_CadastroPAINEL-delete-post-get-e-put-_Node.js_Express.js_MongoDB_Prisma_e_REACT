@@ -19,5 +19,3 @@ Este projeto é uma aplicação full stack simples que permite cadastrar, listar
 - **PUT** `/usuarios`: Atualiza os dados de um usuário
 - **DELETE** `/usuarios`: Remove um usuário
 
-## 📁 Estrutura do projeto
- -- Em breve completa.. --
